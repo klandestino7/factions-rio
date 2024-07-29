@@ -1,3 +1,13 @@
 GenericEntity : "{95E4917C4E27A44D}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_wall_plastic.et" {
  ID "F0DBA538AC2A0552"
+ components {
+  SCR_EditableEntityComponent "{58EEFD4A6A2F37F4}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    m_sFaction "BOPE"
+    m_aAuthoredLabels {
+     16
+    }
+   }
+  }
+ }
 }

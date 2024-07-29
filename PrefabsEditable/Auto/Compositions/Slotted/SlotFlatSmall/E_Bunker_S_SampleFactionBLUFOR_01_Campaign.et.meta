@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{824B95894CE369AF}PrefabsEditable/Auto/Compositions/Slotted/SlotFlatSmall/E_Bunker_S_US_01_Campaign_inherited.et"
+ Name "{FF64395C039B1038}PrefabsEditable/Auto/Compositions/Slotted/SlotFlatSmall/E_Bunker_S_SampleFactionBLUFOR_01_Campaign.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
@@ -8,6 +8,8 @@ MetaFileClass {
   EntityTemplateResourceClass XBOX_SERIES : PC {
   }
   EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
   }
   EntityTemplateResourceClass HEADLESS : PC {
   }

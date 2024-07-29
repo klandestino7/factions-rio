@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{2F6B4D9730F5AF09}PrefabsEditable/Auto/Compositions/Slotted/SlotFlatSmall/E_Antenna_S_SampleFactionREDFOR_01_Campaign_inherited.et"
+ Name "{75FB7F236590883E}PrefabsEditable/Auto/Compositions/Slotted/SlotFlatSmall/E_Antenna_S_SampleFactionREDFOR_01_Campaign.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
@@ -8,6 +8,8 @@ MetaFileClass {
   EntityTemplateResourceClass XBOX_SERIES : PC {
   }
   EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
   }
   EntityTemplateResourceClass HEADLESS : PC {
   }

@@ -12,7 +12,7 @@ GenericEntity : "{082927EC4785A901}Prefabs/Systems/Arsenal/ArsenalBoxes/SampleFa
      24 38 25 35 34 33 1001
     }
     m_aAutoLabels {
-     7 122 27 14
+     7 122 27 15
     }
     m_EntityChildrenBudgetCost {
      SCR_EntityBudgetValue "{5D32C3018B08DD5A}" {

@@ -1,3 +1,10 @@
 GenericEntity : "{33748AC23F947B6E}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_round_burlap.et" {
  ID "F0DBA538AC2A0552"
+ components {
+  SCR_EditableEntityComponent "{58EEFD4A6B955D67}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    m_sFaction "CV"
+   }
+  }
+ }
 }

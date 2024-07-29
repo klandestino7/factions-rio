@@ -1,59 +1,46 @@
-GenericEntity : "{2A3B53114DEAA60A}Prefabs/Compositions/Slotted/SlotFlatSmall/Headquarters_S_USSR_01.et" {
+GenericEntity : "{2A3B53114DEAA60B}Prefabs/Compositions/Slotted/SlotFlatSmall/Headquarters_S_USSR_01.et" {
  ID "5282DCB5DFC8538F"
+ components {
+  FactionAffiliationComponent "{5D06E95D12174E9C}" {
+   "faction affiliation" "CV"
+  }
+ }
  {
-  GenericEntity {
-   ID "5616978A145BF5FA"
-   components {
-    ActionsManagerComponent "{5D6EAD2AF597BBDD}" {
-     ActionContexts {
-      UserActionContext "{5D6EAD2AF597BBD5}" {
-       ContextName "Building"
-       Position PointInfo "{5D6EAD2AF597BBD2}" {
-        Offset 0 1.2601 0.04
+  $grp GenericEntity {
+   {
+    ID "5616978A145BF5FA"
+    components {
+     ActionsManagerComponent "{5D6EAD2AF597BBDD}" {
+      ActionContexts {
+       UserActionContext "{5D6EAD2AF597BBD5}" {
+        ContextName "Building"
+        Position PointInfo "{5D6EAD2AF597BBD2}" {
+         Offset 0 1.2601 0.04
+        }
        }
       }
-     }
-     additionalActions {
-      SCR_CampaignStartBuildingPreviewUserAction "{5D6EAD2AF597BB2E}" {
-       ParentContextList {
-        "Building"
+      additionalActions {
+       SCR_CampaignBuildingStartUserAction "{5D6EAD2AF597BB23}" {
+        ParentContextList {
+         "Building"
+        }
+        UIInfo UIInfo "{5D6EAD2AF597BB21}" {
+        }
+        VisibilityRange 10
+        Duration 1
        }
-       UIInfo UIInfo "{5D6EAD2AF597BB29}" {
-       }
-       VisibilityRange 10
-       Duration 1
-      }
-      SCR_CampaignCloseBuildingPreviewUserAction "{5D6EAD2AF597BB26}" {
-       ParentContextList {
-        "Building"
-       }
-       UIInfo UIInfo "{5D6EAD2AF597BB24}" {
-       }
-       VisibilityRange 10
-       Duration 1
-      }
-      SCR_CampaignBuildingStartUserAction "{5D6EAD2AF597BB23}" {
-       ParentContextList {
-        "Building"
-       }
-       UIInfo UIInfo "{5D6EAD2AF597BB21}" {
-       }
-       VisibilityRange 10
-       Duration 1
       }
      }
     }
    }
-  }
-  GenericEntity {
-   ID "58B8CD4B167BCA06"
-   components {
-    SCR_CampaignFlagComponent "{5D6EAD2AF597BB3D}" {
-    }
-    SlotManagerComponent "{55DAE04E55ECE7FA}" {
-     Slots {
-      EntitySlotInfo Flag {
-       Prefab "{E53A39F9653831CE}Prefabs/Props/Fabric/Flags/Flag_1_2_Red_01.et"
+   {
+    ID "58B8CD4B167BCA06"
+    components {
+     SlotManagerComponent "{55DAE04E55ECE7FA}" {
+      Slots {
+       EntitySlotInfo Flag {
+        Prefab "{E53A39F9653831CE}Prefabs/Props/Fabric/Flags/Flag_1_2_Red_01.et"
+       }
       }
      }
     }

@@ -1,10 +1,11 @@
 GenericEntity : "{4DEEA497CDECF31B}PrefabsEditable/Auto/Compositions/Misc/SubCompositions/E_Sandbag_MG_US_02_M2HB.et" {
  ID "5282DCB5DFC8538F"
  components {
-  SCR_EditableEntityComponent "{5C5AE69E22F43DC4}" {
+  SCR_EditableEntityComponent "{5EF0B7B33DD6D774}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     m_sFaction "BOPE"
-    m_aAuthoredLabels +{
+    m_aAuthoredLabels {
+     16
     }
    }
   }

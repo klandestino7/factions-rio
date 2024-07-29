@@ -1,9 +1,6 @@
 SCR_ChimeraCharacter : "{8D3A55BAF6CD0FCF}Prefabs/Characters/Factions/BLUFOR/SampleFactionBLUFOR/Character_SampleFactionBLUFOR_Rifleman.et" {
  ID "520EC961A090B1EE"
  components {
-  FactionAffiliationComponent "{56A8BD34079D5293}" {
-   "faction affiliation" "US"
-  }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{569CD7DB325ADBA1}" {

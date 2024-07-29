@@ -1,14 +1,14 @@
-GenericEntity : "{612AB9E420809988}PrefabsEditable/Auto/Compositions/Slotted/SlotRoadLarge/E_Checkpoint_L_USSR_01.et" {
+GenericEntity : "{612AB9E420809989}PrefabsEditable/Auto/Compositions/Slotted/SlotRoadLarge/E_Checkpoint_L_USSR_01.et" {
  ID "5282DCB5DFC8538F"
  components {
-  FactionAffiliationComponent "{56E0D915F82EB4E8}" {
+  FactionAffiliationComponent "{5CC6A59B7924D8C0}" {
    "faction affiliation" "CV"
   }
-  SCR_EditableEntityComponent "{5A6A905920B7B89A}" {
+  SCR_EditableEntityComponent "{605ECD8A569AFE04}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     m_sFaction "CV"
     m_aAutoLabels {
-     14
+     15
     }
    }
   }

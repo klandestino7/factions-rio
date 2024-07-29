@@ -4,5 +4,13 @@ GenericEntity : "{47E2C605FF71A05A}PrefabsEditable/Auto/Structures/Military/Camo
   RigidBody "{52F0B4B05F6D4CE2}" {
    Static 1
   }
+  SCR_EditableEntityComponent "{5EF0BDF3121F4D2C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    m_sFaction "BOPE"
+    m_aAuthoredLabels {
+     16
+    }
+   }
+  }
  }
 }

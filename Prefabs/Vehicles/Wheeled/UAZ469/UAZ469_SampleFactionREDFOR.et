@@ -15,7 +15,7 @@ Vehicle : "{259EE7B78C51B624}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469.et" {
     m_Image "{DD975490784B1B41}UI/Textures/EditorPreviews/Vehicles/Wheeled/UAZ469/UAZ469_SampleFactionREDFOR.edds"
     m_sFaction "CV"
     m_aAuthoredLabels + {
-     14 1001
+     15 1001
     }
     m_aAutoLabels {
      122 50

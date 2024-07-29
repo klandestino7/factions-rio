@@ -1,11 +1,11 @@
-GenericEntity : "{87DDB867EAD6C493}PrefabsEditable/Auto/Compositions/Misc/SubCompositions/E_Sandbag_MG_USSR_01_PKM.et" {
+GenericEntity : "{87DDB867EAD6C494}PrefabsEditable/Auto/Compositions/Misc/SubCompositions/E_Sandbag_MG_USSR_01_PKM.et" {
  ID "570C9564D02F5C86"
  components {
-  SCR_EditableEntityComponent "{5C9CDAA30E801923}" {
+  SCR_EditableEntityComponent "{5EF6C701B59FF1BD}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     m_sFaction "CV"
     m_aAuthoredLabels {
-     14
+     15
     }
    }
   }

@@ -1,3 +1,12 @@
 SCR_DestructibleEntity : "{1DB9C9CAEA70E7E5}PrefabsEditable/Auto/Props/Military/Fortification/E_BarbedTape_KnifeRest.et" {
  ID "51E2F0F0E96F07CE"
+ components {
+  SCR_EditableEntityComponent "{5A212A08CD01E77F}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    m_aAuthoredLabels {
+     16 15
+    }
+   }
+  }
+ }
 }
