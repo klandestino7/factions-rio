@@ -17,7 +17,7 @@ GenericEntity : "{54986385A6AF77B2}Prefabs/Systems/Arsenal/ArsenalBoxes/ArsenalB
   SCR_ArsenalComponent "{56F2C6D1431AD9AF}" {
   }
   SCR_FactionAffiliationComponent "{5A50E7655452A21D}" {
-   "faction affiliation" "SampleFactionGREENFOR"
+   "faction affiliation" "MILICIA"
   }
  }
  coords 1198.398 50.938 1297.373

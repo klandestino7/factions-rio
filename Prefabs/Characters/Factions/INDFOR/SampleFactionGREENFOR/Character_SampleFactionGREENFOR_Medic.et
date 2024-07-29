@@ -19,7 +19,7 @@ SCR_ChimeraCharacter : "{1A37F1DF9BC3EB37}Prefabs/Characters/INDFOR/SampleFactio
     Name "#AR-Role_Medic"
     Icon "{F3FCC3B9732551D9}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_Medic.edds"
     m_Image "{D8649AE52569B1D4}UI/Textures/EditorPreviews/Characters/INDFOR/SampleFactionGREENFOR/Character_SampleFactionGREENFOR_Medic.edds"
-    m_sFaction "SampleFactionGREENFOR"
+    m_sFaction "MILICIA"
     m_aAutoLabels {
      2 122 44
     }

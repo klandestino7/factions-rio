@@ -18,7 +18,7 @@ SCR_ChimeraCharacter : "{1A37F1DF9BC3EB37}Prefabs/Characters/INDFOR/SampleFactio
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "#AR-Role_MachineGunner"
     m_Image "{85FE13711E16A8C8}UI/Textures/EditorPreviews/Characters/INDFOR/SampleFactionGREENFOR/Character_SampleFactionGREENFOR_MG.edds"
-    m_sFaction "SampleFactionGREENFOR"
+    m_sFaction "MILICIA"
     m_aAutoLabels {
      2 122 43
     }

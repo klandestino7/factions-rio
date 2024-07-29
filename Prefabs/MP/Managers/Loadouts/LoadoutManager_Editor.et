@@ -24,12 +24,12 @@ SCR_LoadoutManager : "{AA4E7419A1FF65B0}Prefabs/MP/Managers/Loadouts/LoadoutMana
   SCR_FactionPlayerLoadout "{5928D9F1DEFFDD72}" {
    m_sLoadoutName "#AR-Loadout_Editor_NewArsenalLoadout_Name"
    m_sLoadoutResource "{D0176A06B7A6CD6C}Prefabs/Characters/INDFOR/SampleFactionGREENFOR/Character_SampleFactionGREENFOR_Rifleman.et"
-   m_sAffiliatedFaction "SampleFactionGREENFOR"
+   m_sAffiliatedFaction "MILICIA"
   }
   SCR_PlayerArsenalLoadout "{5928D9F1D9D65276}" {
    m_sLoadoutName "#AR-Loadout_Editor_SavedArsenalLoadout_Name"
    m_sLoadoutResource "{D0176A06B7A6CD6C}Prefabs/Characters/INDFOR/SampleFactionGREENFOR/Character_SampleFactionGREENFOR_Rifleman.et"
-   m_sAffiliatedFaction "SampleFactionGREENFOR"
+   m_sAffiliatedFaction "MILICIA"
   }
  }
 }
