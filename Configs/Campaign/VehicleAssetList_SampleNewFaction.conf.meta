@@ -9,5 +9,9 @@ MetaFileClass {
   }
   CONFResourceClass HEADLESS : PC {
   }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
  }
 }
