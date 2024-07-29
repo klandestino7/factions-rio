@@ -1,0 +1,8 @@
+GameProject {
+ ID "FactionsRIO"
+ GUID "61F70358F3BEC565"
+ TITLE "Factions RIO"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
