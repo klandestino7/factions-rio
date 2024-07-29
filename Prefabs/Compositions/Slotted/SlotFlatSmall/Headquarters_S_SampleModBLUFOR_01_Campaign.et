@@ -2,7 +2,7 @@ GenericEntity : "{781A5361CCEA95FC}Prefabs/Compositions/Slotted/SlotFlatSmall/He
  ID "528EB9D7D007E90B"
  components {
   FactionAffiliationComponent "{56E0D915F82EB4E8}" {
-   "faction affiliation" "SampleFactionBLUFOR"
+   "faction affiliation" "BOPE"
   }
  }
  {

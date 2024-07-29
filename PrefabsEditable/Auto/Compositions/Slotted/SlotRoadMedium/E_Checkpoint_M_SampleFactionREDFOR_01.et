@@ -2,11 +2,11 @@ GenericEntity : "{1DF9835399B603EA}PrefabsEditable/Auto/Compositions/Slotted/Slo
  ID "560C73448CF83343"
  components {
   FactionAffiliationComponent "{56E0D915F82EB4E8}" {
-   "faction affiliation" "SampleFactionREDFOR"
+   "faction affiliation" "CV"
   }
   SCR_EditableEntityComponent "{5A6A905934208287}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
-    m_sFaction "SampleFactionREDFOR"
+    m_sFaction "CV"
     m_aAutoLabels {
      14
     }

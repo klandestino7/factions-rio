@@ -5,7 +5,7 @@ SCR_ChimeraCharacter : "{DBB90D549BDAC937}Prefabs/Characters/OPFOR/SampleFaction
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "#AR-Role_Unarmed"
     m_Image "{33FB08B1F9A8E28C}UI/Textures/EditorPreviews/Characters/OPFOR/SampleFactionREDFOR/Character_SampleFactionREDFOR_Unarmed.edds"
-    m_sFaction "SampleFactionREDFOR"
+    m_sFaction "CV"
     m_aAutoLabels {
      2 122 22
     }

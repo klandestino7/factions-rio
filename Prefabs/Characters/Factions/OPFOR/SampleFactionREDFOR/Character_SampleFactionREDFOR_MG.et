@@ -25,7 +25,7 @@ SCR_ChimeraCharacter : "{DBB90D549BDAC937}Prefabs/Characters/OPFOR/SampleFaction
     Name "#AR-Role_MachineGunner"
     Icon "{EF1F445746A3391A}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_MachineGunner.edds"
     m_Image "{BC6C68433DFC1FB6}UI/Textures/EditorPreviews/Characters/OPFOR/SampleFactionREDFOR/Character_SampleFactionREDFOR_MG.edds"
-    m_sFaction "SampleFactionREDFOR"
+    m_sFaction "CV"
     m_aAutoLabels {
      2 122 43
     }

@@ -13,7 +13,7 @@ Vehicle : "{259EE7B78C51B624}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469.et" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "#AR-Vehicle_UAZ469_Name"
     m_Image "{DD975490784B1B41}UI/Textures/EditorPreviews/Vehicles/Wheeled/UAZ469/UAZ469_SampleFactionREDFOR.edds"
-    m_sFaction "SampleFactionREDFOR"
+    m_sFaction "CV"
     m_aAuthoredLabels + {
      14 1001
     }
@@ -139,7 +139,7 @@ Vehicle : "{259EE7B78C51B624}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469.et" {
    m_fVehicleDestroyDamage 11880.1
   }
   SCR_VehicleFactionAffiliationComponent "{5882CBD9AC741CEC}" {
-   "faction affiliation" "SampleFactionREDFOR"
+   "faction affiliation" "CV"
   }
   SlotManagerComponent "{55BCE45E438E4CFF}" {
    Slots {

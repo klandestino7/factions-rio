@@ -6,7 +6,7 @@ SCR_ChimeraCharacter : "{DCB6E3830663FD18}Prefabs/Characters/Factions/BLUFOR/Sam
     Name "#AR-Role_Rifleman"
     Icon "{AE53796BC5D21A08}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_Rifleman.edds"
     m_Image "{4CB76BDF9E6467F7}UI/Textures/EditorPreviews/Characters/BLUFOR/SampleFactionBLUFOR/Character_SampleFactionBLUFOR_Rifleman.edds"
-    m_sFaction "SampleFactionBLUFOR"
+    m_sFaction "BOPE"
     m_aAuthoredLabels {
     }
     m_aAutoLabels {

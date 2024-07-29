@@ -7,7 +7,7 @@ GenericEntity : "{082927EC4785A901}Prefabs/Systems/Arsenal/ArsenalBoxes/SampleFa
     Description "#AR-EditableEntity_ArsenalBox_Description"
     Icon "{EA975C03DF5422AD}UI/Textures/Editor/EditableEntities/Systems/EditableEntity_System_Arsenal.edds"
     m_Image "{7EDEAAC89131B224}UI/Textures/EditorPreviews/Auto/Systems/Arsenal/ArsenalBoxes/US/E_ArsenalBox_US.edds"
-    m_sFaction "SampleFactionREDFOR"
+    m_sFaction "CV"
     m_aAuthoredLabels {
      24 38 25 35 34 33 1001
     }

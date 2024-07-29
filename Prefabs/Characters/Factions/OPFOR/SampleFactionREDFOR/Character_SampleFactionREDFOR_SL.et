@@ -16,7 +16,7 @@ SCR_ChimeraCharacter : "{DBB90D549BDAC937}Prefabs/Characters/OPFOR/SampleFaction
     Name "#AR-Role_SquadLeader"
     Icon "{A26C465A6AE2AA17}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_Leader.edds"
     m_Image "{8C841B4FC4401E45}UI/Textures/EditorPreviews/Characters/OPFOR/SampleFactionREDFOR/Character_SampleFactionREDFOR_SL.edds"
-    m_sFaction "SampleFactionREDFOR"
+    m_sFaction "CV"
     m_aAutoLabels {
      2 122 41
     }

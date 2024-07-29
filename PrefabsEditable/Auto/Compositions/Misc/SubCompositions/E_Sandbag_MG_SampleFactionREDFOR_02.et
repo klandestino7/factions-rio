@@ -3,7 +3,7 @@ GenericEntity : "{0DE37DEC29C2DF3C}PrefabsEditable/Auto/Compositions/Misc/SubCom
  components {
   SCR_EditableEntityComponent "{5C5AE69E3D211089}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
-    m_sFaction "SampleFactionREDFOR"
+    m_sFaction "CV"
     m_aAuthoredLabels {
      14
     }

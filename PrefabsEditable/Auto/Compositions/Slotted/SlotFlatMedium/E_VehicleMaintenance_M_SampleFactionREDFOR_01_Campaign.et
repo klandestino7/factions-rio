@@ -3,7 +3,7 @@ GenericEntity : "{88CA457F762112FE}PrefabsEditable/Auto/Compositions/Slotted/Slo
  components {
   SCR_EditableEntityComponent "{5CC4E26C8796C07F}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
-    m_sFaction "SampleFactionREDFOR"
+    m_sFaction "CV"
     m_aAutoLabels {
      14
     }

@@ -16,7 +16,7 @@ SCR_ChimeraCharacter : "{37578B1666981FCE}Prefabs/Characters/Core/Character_Base
    WeaponSlotIndex 1
   }
   FactionAffiliationComponent "{5696DE47A90D2EF3}" {
-   "faction affiliation" "SampleFactionREDFOR"
+   "faction affiliation" "CV"
   }
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
