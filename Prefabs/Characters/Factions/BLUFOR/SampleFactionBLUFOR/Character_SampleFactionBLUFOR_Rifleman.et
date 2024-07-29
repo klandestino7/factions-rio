@@ -1,16 +1,6 @@
-SCR_ChimeraCharacter : "{DCB6E3830663FD18}Prefabs/Characters/BLUFOR/SampleFactionBLUFOR/Character_SampleFactionBLUFOR_Base.et" {
+SCR_ChimeraCharacter : "{DCB6E3830663FD18}Prefabs/Characters/Factions/BLUFOR/SampleFactionBLUFOR/Character_SampleFactionBLUFOR_Base.et" {
  ID "520EC961A090B1EE"
  components {
-  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
-   Slots {
-    LoadoutSlotInfo Vest {
-     Prefab "{A6DA416B35513C05}Prefabs/Characters/Vests/Vest_Lifchik/Vest_Lifchik_blue.et"
-    }
-   }
-  }
-  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
-   WeaponTemplate "{3EB02CDAD5F23C82}Prefabs/Weapons/Rifles/SVD/Rifle_SVD.et"
-  }
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "#AR-Role_Rifleman"
@@ -21,6 +11,16 @@ SCR_ChimeraCharacter : "{DCB6E3830663FD18}Prefabs/Characters/BLUFOR/SampleFactio
     }
     m_aAutoLabels {
      2 122 47
+    }
+   }
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{3EB02CDAD5F23C82}Prefabs/Weapons/Rifles/SVD/Rifle_SVD.et"
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Vest {
+     Prefab "{A6DA416B35513C05}Prefabs/Characters/Vests/Vest_Lifchik/Vest_Lifchik_blue.et"
     }
    }
   }

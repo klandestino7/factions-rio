@@ -1,19 +1,6 @@
-SCR_ChimeraCharacter : "{DCB6E3830663FD18}Prefabs/Characters/BLUFOR/SampleFactionBLUFOR/Character_SampleFactionBLUFOR_Base.et" {
+SCR_ChimeraCharacter : "{DCB6E3830663FD18}Prefabs/Characters/Factions/BLUFOR/SampleFactionBLUFOR/Character_SampleFactionBLUFOR_Base.et" {
  ID "520EC961A090B1EE"
  components {
-  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
-   Slots {
-    LoadoutSlotInfo Vest {
-     Prefab "{15067AD09803580D}Prefabs/Characters/Vests/Vest_SovietHarness/New/Vest_SovietHarness_MG.et"
-    }
-    LoadoutSlotInfo Back {
-     Prefab "{3DE0155EC9767B98}Prefabs/Items/Equipment/Backpacks/Backpack_Veshmeshok.et"
-    }
-   }
-  }
-  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
-   WeaponTemplate "{A89BC9D55FFB4CD8}Prefabs/Weapons/MachineGuns/PKM/MG_PKM.et"
-  }
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "#AR-Role_MachineGunner"
@@ -22,6 +9,19 @@ SCR_ChimeraCharacter : "{DCB6E3830663FD18}Prefabs/Characters/BLUFOR/SampleFactio
     m_sFaction "SampleFactionBLUFOR"
     m_aAutoLabels {
      2 122 43
+    }
+   }
+  }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{A89BC9D55FFB4CD8}Prefabs/Weapons/MachineGuns/PKM/MG_PKM.et"
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Back {
+     Prefab "{3DE0155EC9767B98}Prefabs/Items/Equipment/Backpacks/Backpack_Veshmeshok.et"
+    }
+    LoadoutSlotInfo Vest {
+     Prefab "{0E12CD50BB92D92E}Prefabs/Characters/Vests/Vest_SovietHarness/Variants/Vest_SovietHarness_medic.et"
     }
    }
   }

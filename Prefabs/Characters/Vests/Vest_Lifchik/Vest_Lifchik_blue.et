@@ -10,6 +10,11 @@ GenericEntity : "{9713FE6DDCC9510D}Prefabs/Characters/Vests/Vest_Lifchik/Vest_Li
    }
   }
   BaseLoadoutClothComponent "{5312D798A71DFBB1}" {
+   Slots {
+    LoadoutSlotInfo Belt {
+     Enabled 0
+    }
+   }
    WornModel "{3C6D19A0E5ECAA1B}Prefabs/Characters/Vests/Vest_Lifchik/Vest_Lifchik_Wear_blue.et"
    ItemModel "{62DF8C9D3056CD2F}Prefabs/Characters/Vests/Vest_Lifchik/Vest_Lifchik_item_blue.et"
   }

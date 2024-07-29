@@ -1,10 +1,13 @@
 GenericEntity : "{C8516078375CBE45}Prefabs/Characters/Vests/Vest_Lifchik/Vest_Lifchik_GL.et" {
  ID "50E0B40D7407B664"
  components {
-  MeshObject "{5312D798A817A294}" {
+  SCR_UniversalInventoryStorageComponent "{5222CB03D1147687}" {
   }
   BaseLoadoutClothComponent "{5312D798A71DFBB1}" {
    Slots {
+    LoadoutSlotInfo Belt {
+     Enabled 0
+    }
     LoadoutSlotInfo GrenadeBelt {
      Prefab "{0D224CC315F9B654}Prefabs/Characters/Vests/Vest_Lifchik/Vest_Lifchik_GrenadeBelt_blue.et"
     }
