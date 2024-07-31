@@ -3,6 +3,20 @@ GameProject {
  GUID "61F70358F3BEC565"
  TITLE "Factions RIO"
  Dependencies {
-  "58D0FB3206B6F859"
+  "58D0FB3206B6F859" "59B70A5A19E9B51E" "617AC5E57EF1D9E3"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
  }
 }

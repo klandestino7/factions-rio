@@ -4,9 +4,9 @@ GenericEntity : "{C31DC02F6CD4E72E}Prefabs/Vehicles/Wheeled/UAZ469/VehParts/Door
   MeshObject "{4B42E716914465B9}" {
    Object "{01F26BA319A34882}Assets/Vehicles/Wheeled/UAZ469/VehParts/Doors/UAZ469_door_L01_1.xob"
    Materials {
-    MaterialAssignClass "{61FB5AC293A5AF32}" {
+    MaterialAssignClass "{61FF5417533E8AB6}" {
      SourceMaterial "UAZ469_Body"
-     AssignedMaterial "{3F350E0513208E84}Assets/Vehicles/Wheeled/UAZ469/Data/UAZ469_Body.emat"
+     AssignedMaterial "{3F350E0513208E84}Assets/Vehicles/Wheeled/UAZ469/Data/UAZ469_Body_Red.emat"
     }
    }
   }

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{AE92735550BC0AE7}Prefabs/Vehicles/Wheeled/Ural4320/REDFOR/Ural4320_command_SampleFactionREDFOR_2.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
