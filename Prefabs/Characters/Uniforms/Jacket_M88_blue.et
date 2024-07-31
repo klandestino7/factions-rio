@@ -2,6 +2,7 @@ GameEntity : "{9F546CCA2582D16F}Prefabs/Characters/Uniforms/Jacket_M88.et" {
  ID "5104869D194C6243"
  components {
   MeshObject "{5104869D194C6262}" {
+   Object "{A524D823B6CCD339}Assets/Characters/Uniforms/Jacket_M88/Jacket_M88_01_Deflated.xob"
    Materials {
     MaterialAssignClass "{56B8D2BAC02EBA2D}" {
      SourceMaterial "Jacket_M88_01_Item"
@@ -10,10 +11,31 @@ GameEntity : "{9F546CCA2582D16F}Prefabs/Characters/Uniforms/Jacket_M88.et" {
    }
   }
   SCR_UniversalInventoryStorageComponent "{5222CB01D5B9A306}" {
+   components {
+    RHS_ClothNodeStorageComponent "{61FEE78D35F827F1}" {
+     StoragePurpose 64
+    }
+    SCR_EquipmentStorageComponent "{5888DEA3F4B2FC2A}" {
+     InitialStorageSlots {
+      RHS_EquipmentStorageSlot SleeveLeftVelcro {
+       PivotID "LeftArmTwist"
+       Offset 0.0019 0.0233 0.0594
+       Angles 0 0 176.91838
+       Enabled 0
+       Prefab "{BEB22E4A0FD34E94}Prefabs/Patch_Bope.et"
+       AllowedItemTypes {
+        "RHS_PATCH"
+       }
+       AnimatedMeshRefference "{99DD45795E81EFAB}Assets/Characters/Uniforms/Jacket_M88/Jacket_M88_01.xob"
+      }
+     }
+    }
+   }
    Attributes SCR_ItemAttributeCollection "{5222CB01245CDF32}" {
     CustomAttributes {
      PreviewRenderAttributes "{555292467DA11B7C}" {
       PreviewModel "{6589FF13ED3030C7}Prefabs/Characters/Uniforms/Jacket_M88_Wear_blue.et"
+      ShowAllChildrens 1
      }
     }
    }
@@ -22,11 +44,29 @@ GameEntity : "{9F546CCA2582D16F}Prefabs/Characters/Uniforms/Jacket_M88.et" {
    Slots {
     LoadoutSlotInfo DummyBelt {
      Enabled 0
+     Prefab "{CD050EF02D195A9F}Prefabs/Characters/Uniforms/ArmPatches/ArmPatch_MSV_01.et"
+    }
+    RHS_LoadoutSlotInfo SleeveRightVelcro {
+     PivotID "RightArmTwist"
+     Offset -0.0073 -0.0187 -0.063
+     Angles -5.0451 176.0618 -3.6096
+     Prefab "{BEB22E4A0FD34E94}Prefabs/Patch_Bope.et"
+     InspectionWidgetOffset 0.3227 1.3451 -0.0613
+     m_bShouldUseCMorphedMesh 1
+    }
+    RHS_LoadoutSlotInfo SleeveLeftVelcro {
+     PivotID "LeftArmTwist"
+     Offset -0.0008 0.0232 0.0619
+     Angles 1.9198 -7.1519 176.7509
+     Prefab "{BEB22E4A0FD34E94}Prefabs/Patch_Bope.et"
+     InspectionWidgetOffset -0.2027 1.2451 -0.0613
+     AreaType RHS_LoadoutLargeVelcroSlotArea "{61FEE78ABD4391E6}" {
+     }
+     m_bShouldUseCMorphedMesh 1
     }
    }
    WornModel "{6589FF13ED3030C7}Prefabs/Characters/Uniforms/Jacket_M88_Wear_blue.et"
    ItemModel "{3B3B6A2E388A57F3}Prefabs/Characters/Uniforms/Jacket_M88_item_blue.et"
-   DeflatedModel "{E9C381C1A47ECA37}Prefabs/Characters/Uniforms/Jacket_M88_Wear_Deflated_blue.et"
   }
  }
 }

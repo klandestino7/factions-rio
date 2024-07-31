@@ -1,0 +1,6 @@
+MatPBRBasic {
+ DiffuseIBL 0.518 0.518 0.518 1
+ AOScale 0.444
+ GlobalAOPower 0.879
+ BCRMap "{01491265E41AC8DB}Assets/Factions/bope_patch.edds"
+}

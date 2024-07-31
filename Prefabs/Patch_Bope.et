@@ -1,0 +1,25 @@
+GameEntity : "{BEB22E4A0FD34E93}Prefabs/Items/Equipment/Patches/Patch_Base.et" {
+ ID "5DB09136945FC6DB"
+ components {
+  InventoryItemComponent "{5DB09136B1C985CE}" {
+   Attributes SCR_ItemAttributeCollection "{5DB09136B1C985C1}" {
+    ItemDisplayName SCR_ItemHintUIInfo "{5DB09136B1C985EB}" {
+     Name "Bope Patch"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes "{5DB09136B1C985D2}" {
+    }
+   }
+  }
+  MeshObject "{5DB09136B1C985B5}" {
+   Object "{607364DD47CAF684}Assets/Factions/rhs_patch_bope.xob"
+  }
+  BaseLoadoutClothComponent "{5DB09136B1C9859A}" {
+   WornMaterialsOverride {
+    "{C53B70DA7CC25949}Assets/Factions/Data/rhs_patch_bope_id_1.emat"
+   }
+   ItemMaterialsOverride {
+    "{C53B70DA7CC25949}Assets/Factions/Data/rhs_patch_bope_id_1.emat"
+   }
+  }
+ }
+}

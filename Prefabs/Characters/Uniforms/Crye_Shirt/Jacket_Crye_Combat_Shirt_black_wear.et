@@ -1,0 +1,13 @@
+GenericEntity : "{523F10BF330B1761}Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_MC_wear.et" {
+ ID "5B3769FBB317E75B"
+ components {
+  MeshObject "{5B3769FB8832AC53}" {
+   Materials {
+    MaterialAssignClass "{61FEE796EEF14FBC}" {
+     SourceMaterial "Crye_longsleeve_multicam"
+     AssignedMaterial "{68A17B8AACEC8CEF}Assets/Characters/Uniforms/Crye_Combat_Shirt/Data/Crye_longsleeve_black.emat"
+    }
+   }
+  }
+ }
+}

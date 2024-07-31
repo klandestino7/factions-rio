@@ -1,0 +1,15 @@
+GenericEntity {
+ ID "61FEE796E672C2AB"
+ components {
+  MeshObject "{61FEE796E672C2A3}" {
+   Object "{9005229646A53505}Assets/Characters/Uniforms/Crye_Combat_Pants/Crye_Trousers.xob"
+   Materials {
+    MaterialAssignClass "{61FEE796E672C2D8}" {
+     SourceMaterial "crye_trousers"
+     AssignedMaterial "{8684A524A9D31C1E}Assets/Characters/Uniforms/Crye_Combat_Pants/Data/crye_trousers_black.emat"
+    }
+   }
+  }
+ }
+ coords 984.802 51 2270.445
+}
